@@ -2,7 +2,7 @@
 
 *Tämä repositorio on ainoastaan harjoittelua varten luotu*
 
-### Linkit testi teksti-tiedoistoihin
+### Linkit testi-repositorion teksti-tiedoistoihin
 
 [gitlog.txt](https://github.com/nassennaru/testi/blob/master/laskarit/viikko1/gitlog.txt)
 
