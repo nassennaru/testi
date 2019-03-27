@@ -1,2 +1,3 @@
 Testi-file.
 Ja siellä testi-rivi.
+Ja toinen testi-rivi.
